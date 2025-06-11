@@ -2,7 +2,7 @@
 
 This document provides technical implementation details for developers working with the Process Builder system.
 
-> For user documentation and usage guidelines, please refer to [Process Builder Documentation](USER_GUIDE.md)
+> For user documentation and usage guidelines, please refer to [Process Builder Documentation](user-guide.md)
 
 ## Recent Updates (December 2024)
 
@@ -2614,6 +2614,6 @@ When developing new components or enhancing existing ones:
 
 ---
 
-For user documentation and usage guidelines, please refer to [Process Builder Documentation](USER_GUIDE.md).
+For user documentation and usage guidelines, please refer to [Process Builder Documentation](user-guide.md).
 
 Last updated: December 2024 

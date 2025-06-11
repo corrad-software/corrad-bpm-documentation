@@ -762,6 +762,6 @@ function calculateTotal() {
 
 ---
 
-*This API reference covers all available JavaScript functionality in the Form Builder. For implementation examples and integration details, see the [Technical Guide](TECHNICAL_GUIDE.md) and [User Guide](USER_GUIDE.md).*
+*This API reference covers all available JavaScript functionality in the Form Builder. For implementation examples and integration details, see the [Technical Guide](technical-guide.md) and [User Guide](user-guide.md).*
 
 Last updated: December 2024 

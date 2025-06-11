@@ -687,7 +687,7 @@ Field Conditions:
 
 ---
 
-For technical details about implementation and integration, please refer to the [Process Builder Technical Documentation](TECHNICAL_GUIDE.md).
+For technical details about implementation and integration, please refer to the [Process Builder Technical Documentation](technical-guide.md).
 
 Last updated: December 2024 
 

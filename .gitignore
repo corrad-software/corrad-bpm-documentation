@@ -8,3 +8,5 @@
 .env.test
 .env.production
 node_modules
+.vitepress/cache
+.vitepress/dist

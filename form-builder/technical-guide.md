@@ -2,7 +2,7 @@
 
 This document provides comprehensive technical implementation details for developers working with the Form Builder system, including the new smart collapsible panel, enhanced grid system, and advanced UX features.
 
-> For user documentation and usage guidelines, see the [User Guide](USER_GUIDE.md)
+> For user documentation and usage guidelines, see the [User Guide](user-guide.md)
 
 ## Recent Development Updates (December 2024)
 

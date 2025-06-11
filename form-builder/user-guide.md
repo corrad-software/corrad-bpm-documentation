@@ -4,7 +4,7 @@
 
 The Form Builder is a modern, intuitive drag-and-drop interface for creating dynamic forms. Featuring a smart collapsible settings panel, visual grid system, and intelligent component recommendations, it makes form creation accessible to both developers and non-technical users.
 
-> For technical implementation details, see the [Technical Guide](TECHNICAL_GUIDE.md)
+> For technical implementation details, see the [Technical Guide](technical-guide.md)
 
 ## Interface Overview
 

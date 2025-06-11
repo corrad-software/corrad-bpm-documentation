@@ -24,7 +24,7 @@ Access the Process Execution module by navigating to the "Process Execution" sec
 
 The Execution Dashboard provides a high-level overview of your process-related activities.
 
-![Execution Dashboard](../assets/images/execution-dashboard.png)
+<!-- ![Execution Dashboard](../assets/images/execution-dashboard.png) -->
 
 ### Dashboard Components
 
@@ -50,7 +50,7 @@ The Execution Dashboard provides a high-level overview of your process-related a
 
 To initiate a new process instance, navigate to the "New Case" page from the Process Execution section.
 
-![New Case](../assets/images/new-case.png)
+<!-- ![New Case](../assets/images/new-case.png) -->
 
 ### Steps to Start a New Case
 
@@ -72,7 +72,7 @@ To initiate a new process instance, navigate to the "New Case" page from the Pro
 
 The Task Inbox displays all tasks assigned to you that require your action.
 
-![Task Inbox](../assets/images/task-inbox.png)
+<!-- ![Task Inbox](../assets/images/task-inbox.png) -->
 
 ### Task Inbox Features
 
@@ -94,7 +94,7 @@ The Task Inbox displays all tasks assigned to you that require your action.
 
 When you open a task from the Inbox, you will see the Task Detail page.
 
-![Task Detail](../assets/images/task-detail.png)
+<!-- ![Task Detail](../assets/images/task-detail.png) -->
 
 ### Task Detail Components
 
@@ -122,7 +122,7 @@ When you open a task from the Inbox, you will see the Task Detail page.
 
 The Case History page allows you to view all process instances (cases) and their current status.
 
-![Case History](../assets/images/case-history.png)
+<!-- ![Case History](../assets/images/case-history.png) -->
 
 ### Case History Features
 
